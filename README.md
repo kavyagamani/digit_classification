@@ -22,7 +22,9 @@ MNIST Dataset
 Image size: 28 × 28
 
 Dataset Link:
-[http://yann.lecun.com/exdb/mnist/](https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9)
+https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9
+and
+https://www.kaggle.com/datasets/bistaumanga/usps-dataset
 
 How to Run
 pip install -r requirements.txt
